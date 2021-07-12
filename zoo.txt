@@ -1,0 +1,8 @@
+Small Multiples
+Horizon Graphs
+data density
+nested form
+exploratory data analysis
+stem-and-leaf plot
+quantile
+Choropleth Maps
