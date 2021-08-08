@@ -6,4 +6,3 @@ exploratory data analysis
 stem-and-leaf plot
 quantile
 Choropleth Maps
-gh-pages
